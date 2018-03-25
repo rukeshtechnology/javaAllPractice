@@ -1,0 +1,3 @@
+Run Maven install
+go to C:\Users\rukesh\Downloads\gs-messaging-stomp-websocket-master\gs-messaging-stomp-websocket-master\complete\target\gs-messaging-stomp-websocket-0.1.0.jar
+run command java -jar gs-messaging-stomp-websocket-0.1.0.jar

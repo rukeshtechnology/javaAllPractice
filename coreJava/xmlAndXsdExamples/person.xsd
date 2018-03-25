@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/person"
+	xmlns:tns="http://www.example.org/person" elementFormDefault="qualified">
+
+	<element name="personInformation">
+		<complexType>
+			<sequence>
+				<element name="firstName" type="string" />
+				<element name="middleInitial" type="string" fixed="2" />
+				<element name="lastName" type="string" />
+				<element name="streetAddress" type="string" />
+				<element name="city" type="string" />
+				<element name="state" type="string" />
+				<element name="zip" type="integer" />
+			</sequence>
+		</complexType>
+	</element>
+	
+	
+
+</schema>
