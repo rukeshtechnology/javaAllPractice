@@ -1,0 +1,29 @@
+Commands
+================================================================================================
+# Install the CLI tool
+npm install -g create-react-app
+
+# Create an app
+create-react-app my-app-name
+
+# Install Dependencies
+cd my-app-name
+npm install
+
+
+URLS
+================================================================================================
+https://babeljs.io/repl/
+
+
+
+
+Concepts
+1)  Component and Views (Pasted on the DOM)
+2) 
+
+
+Stemps
+Delete and create new src folder and created index.js file.
+js library used to produce HTML.
+Component or view is interchabable.
